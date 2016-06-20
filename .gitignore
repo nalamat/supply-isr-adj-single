@@ -1,0 +1,18 @@
+# KiCad temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*~
+_autosave-*
+*.tmp
+
+# KiCad Eeschema exported netlist files
+*.net
+
+# KiCad Pcbnew exported autorouter files
+.dsn
+
+# KiCad exported BOM files
+*.xml
+*.csv
